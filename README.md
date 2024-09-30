@@ -1,4 +1,3 @@
-Ali Alketbi
 Hotel Management System
 This project provides a simple class-based system to manage hotel reservations, rooms, guests, and payments. The code defines four main classes: Room, Guest, Reservation, and Payment, each handling specific functionalities related to a hotel booking system.
 
